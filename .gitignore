@@ -1,0 +1,22 @@
+# Virtual Environment
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Generated index files
+index_chunks.npy
+index_vectorizer.joblib
+index_nn.joblib
+
+# IDE specific files (optional, but often useful)
+.vscode/
+.idea/
+*.code-workspace
+
+# Operating system files
+.DS_Store
+Thumbs.db
